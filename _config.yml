@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Jinpeng Li"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Dr. Jinpeng Li"
-description              : &description "Research Scientist at UCAS"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://jpli1109.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
